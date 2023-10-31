@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/animate.css">
+    <link rel="stylesheet" href="css/owl.carousel.min.css">
+    <link rel="stylesheet" href="css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="css/aos.css">
+
+    <link rel="stylesheet" href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+
+    <link rel="stylesheet" href="css/bootstrap-datepicker.css">
+    <link rel="stylesheet" href="css/jquery.timepicker.css">
+
+
+    <link rel="stylesheet" href="css/flaticon.css">
+    <link rel="stylesheet" href="css/icomoon.css">
+    <link rel="stylesheet" href="style.css">
+    <title>SweetSpot</title>
+	
+	
+   <!-- aos css link  -->
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css">
+
+</head>
+
+<body>
+
+    <!-- testimonial section starts -->
+    <section class="ftco-section testimony-section img" id="testimonial"
+        style="background-image: url(images/bg_1.jpg);">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row justify-content-center mb-5">
+                <div class="col-md-7 text-center heading-section heading-section-white ftco-animate">
+                    <span class="subheading" data-aos="zoom-in"id="headH2">Thanks Alot</span>
+                    <h2 class="mb-3" data-aos="zoom-in">Hazel Sir</h2>
+                </div>
+            </div>
+            <div class="row ftco-animate">
+                <div class="col-md-12">
+                        <div class="item">
+                            <div class="testimony-wrap py-4">
+                                <div class="icon d-flex align-items-center justify-content-center">
+                                    <span class="fa fa-quote-left"></span>
+                                </div>
+                                <div class="text">
+                                    <p class="mb-4">
+                                       
+
+Dear Sir Michael Fleming,
+
+I hope this finds you in the best of health and spirits. I am writing to you today with a heart filled with profound gratitude and appreciation. Your support, and kindness have not only enriched my academic journey but have also made a profound impact on my personal growth.
+
+I wanted to take this opportunity to express my heartfelt thanks for your exceptional qualities as a mentor and as a human being. Your unwavering commitment to your students and your unparalleled dedication to the pursuit of knowledge serve as a constant source of inspiration for me. Your passion for teaching and your genuine concern for our well-being have created an environment where learning feels like an exciting adventure rather than a daunting task.
+
+I am particularly grateful for your recent act of kindness. Your prompt assistance on Fiverr when I was in urgent need of an order was truly commendable. Your willingness to go above and beyond to help me without any hesitation reflects your selflessness and compassion. Because of your timely help, I was able to fulfill my requirements and subsequently gifted my beloved mother a beautifully renovated kitchen, a long-cherished dream of hers. Your indirect contribution to this joyous moment in my family cannot be expressed in mere words.
+
+Your dedication to nurturing not just academic excellence but also instilling values of compassion and generosity in your students is truly commendable. Your exemplary character and selfless acts serve as a guiding light, inspiring us to not only strive for success but also to make meaningful contributions to the lives of those around us.
+
+Once again, please accept my sincerest gratitude for everything you have done for me. Your impact on my life goes beyond the classroom, and I will forever be grateful for the wisdom and kindness you have bestowed upon me. Your presence in my educational journey has been a blessing, and I am honored to have had the opportunity to be your student.
+
+With utmost respect and gratitude,
+
+Wajih ul Hassan
+                                    </p>
+                                    
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- testimonial section ends -->
+
+
+    <!-- scripts -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-migrate-3.0.1.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery.waypoints.min.js"></script>
+    <script src="js/jquery.stellar.min.js"></script>
+    <script src="js/owl.carousel.min.js"></script>
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    <script src="js/aos.js"></script>
+    <script src="js/jquery.animateNumber.min.js"></script>
+    <script src="js/bootstrap-datepicker.js"></script>
+    <script src="js/jquery.timepicker.min.js"></script>
+    <script src="js/scrollax.min.js"></script>
+    <script src="main.js"></script>
+	
+<!-- aos js link  -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js"></script>
+
+<script>
+
+   AOS.init({
+      duration:800,
+      delay:300
+   });
+
+</script>
+
+	
+</body>
+
+</html>
